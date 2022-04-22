@@ -21,12 +21,5 @@ you can run anywhere you want as Jupyter, Gogole collab, Visual studio code and 
 
 # Contact :
 
-Mail: vatshayan007@gmail.com
+Mail: bilalahmer.cs@gmail.com
 
-Website: https://www.cse-projects.com
-
-CSE PRojects: https://computerscienceproject.com
-
-## Helping students on Computer Science Projects 24*7 
-
-Please Star & fork If you like this Project
